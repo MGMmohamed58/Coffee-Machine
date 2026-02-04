@@ -1,3 +1,6 @@
+#Please note this is the old version of the project that doesnt use OOP
+
+
 MENU = {
     "espresso": {
         "ingredients": {
